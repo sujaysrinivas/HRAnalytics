@@ -1,12 +1,12 @@
 # HR-Analytics
 
 ### Overview
-1. An HR Analytics Dashboard is a tool that allows HR professionals to visualize and analyze data related to the organization’s workforce. This can include data on employee demographics, turnover rates, job performance, employee engagement, Work Life Balance and more.
-2. By analyzing this data, HR professionals can identify trends, patterns and areas for improvement within the organization.
-3. By visualizing and analyzing data on the organization’s human capital, the management can make more informed decisions, enhance efficiency, increase employee engagement, and reduce risk. By leveraging the insights provided by an HR Analytics Dashboard, the HR team can help the company build a strong, high-performing workforce.
+1. An HR Analytics Dashboard is a tool that allows HR professionals to visualize and analyze data related to the organization’s workforce. This can include data on employee demographics, turnover rates, job performance, employee engagement, Work Life Balance and more
+2. By analyzing this data, HR professionals can identify trends, patterns and areas for improvement within the organization
+3. By visualizing and analyzing data on the organization’s human capital, the management can make more informed decisions, enhance efficiency, increase employee engagement, and reduce risk. By leveraging the insights provided by an HR Analytics Dashboard, the HR team can help the company build a strong, high-performing workforce
 
 ### Data source
-Analytics Data: The dataset used for this Analysis is the HR Analytics.csv file.
+Analytics Data: The dataset used for this Analysis is the HR Data.csv file
 
 ### Tools 
 Excel, Power BI
@@ -34,10 +34,10 @@ The Data analysis process delivered the following insights:
 
 ### Recommendations
 From the dashboard, we can conclude the following:
-1. The Attrition Rate is about 50.21%. It can only be reduced when all the employee issues are addressed by the management.
-2. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving. Addressing this issue will reduce the departure of large number of employees.
-3. Identifying Departments with lower performance ratings and providing them with proper Training and necessary support will lead to better performance grades.
-4. Providing better Salary structure according to the experience and Performance based Incentives will lead to better employee retention thereby reducing attrition.
+1. The Attrition Rate is about 50.21%. It can only be reduced when all the employee issues are addressed by the management
+2. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving. Addressing this issue will reduce the departure of large number of employees
+3. Identifying Departments with lower performance ratings and providing them with proper Training and necessary support will lead to better performance grades
+4. Providing better Salary structure according to the experience and Performance based Incentives will lead to better employee retention thereby reducing attrition
 
 
 
