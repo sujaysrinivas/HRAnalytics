@@ -32,7 +32,7 @@ The Data analysis process delivered the following insights:
 2. The Dept wise Performance analysis indicates that the Hardware department has the lowest performance rating indicating that the Employees belonging to the Hardware department have to be trained more and any other concern the employees have to be addressed by the management to improve the overall Performance rating of the Hardware Department
 3. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving the organization. According to the Work Life Balance analysis, the least comfortable Job Roles are that of the Sales Executive and the Manager. Addressing this issue and resolving the employee concerns will result in a higher Work Life Balance leading to lower attrition among those Job Roles
 
-### Recommendations
+### Conclusion 
 From the dashboard, we can conclude the following:
 1. The Attrition Rate is about 50.21%. It can only be reduced when all the employee issues are addressed by the management
 2. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving. Addressing this issue will reduce the departure of large number of employees
