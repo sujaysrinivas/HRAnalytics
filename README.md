@@ -1,5 +1,5 @@
 # HR-Analytics
-![HR Analytics Dashboard](https://github.com/user-attachments/assets/5a24f9b9-c13f-4dc2-b3ab-463f6d79beaf)
+![HR Dashboard](https://github.com/user-attachments/assets/c176c3c7-1d4e-49fb-b8b7-56066c8da8b6)
 
 
 ### Overview
