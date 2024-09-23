@@ -1,5 +1,5 @@
 # HR-Analytics
-![HR Analytics Report](https://github.com/user-attachments/assets/05a82a24-f37e-4d7b-9085-088420eefefd)
+![HRA_1](https://github.com/user-attachments/assets/eac03acb-ea0c-43d9-a1c2-e3854255c0c3)
 
 ### Objectives
 The objectives for the Data Analysis process were as follows:
