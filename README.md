@@ -1,8 +1,13 @@
 # HR-Analytics
 ![HRA_1](https://github.com/user-attachments/assets/eac03acb-ea0c-43d9-a1c2-e3854255c0c3)
+**Page 1**
+
+
+![HRA_2](https://github.com/user-attachments/assets/a33ad489-bd70-4ef6-80a4-9a6df47dad7d)
+**Page 2**
 
 ### Objective
-The primary objective of this project is to determine the company's attrition rate and identify the key factors influencing employee turnover. By analyzing these factors, the aim is to provide actionable insights that can help reduce attrition and improve overall employee retention.
+The primary objective of this project is to determine the company's attrition rate and identify the key factors influencing employee turnover.
 
 ### Data source
 Analytics Data: The dataset used for this Analysis is the HR Data.csv file
@@ -21,33 +26,40 @@ The following steps were performed in the Data cleaning phase on the Power Query
 ### Data Analysis
 The Data analysis process delivered the following insights:
 
-1. The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address and resolve the concerns and issues faced by employees.
+1. Attrition Rate:
+   The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address    and resolve the concerns and issues faced by employees.
+
+2. Work Life Balance:
 
    ![369758622-be55a212-161a-4572-aec0-eb202c235d29](https://github.com/user-attachments/assets/77e0ffc6-632b-4fc7-81d7-85a413faffff)
 
-2. The above fig delivers the following insights:
- Highest Work-Life Balance: Research Scientists have the highest average work-life balance score at 2.514.
-Lowest Work-Life Balance: Sales Executives have the lowest score, at 2.469.
-Overall Decline: There is a gradual decline in work-life balance as we move from Research Scientists to Sales Executives
+The above fig delivers the following insights:
+* Highest Work-Life Balance: Research Scientists have the highest average work-life balance score at 2.514.
+* Lowest Work-Life Balance: Sales Executives have the lowest score at 2.469.
+* There is a gradual decline in work-life balance as we move from Research Scientists to Sales Executives
+
+3. Performance Rating:
 
 ![Screenshot (909)](https://github.com/user-attachments/assets/250d72a8-9b50-4f4b-a253-bcca4ef5bc87)
 
 The above fig delivers the following insights:
-3.     Highest Performance: The Research & Development department has the highest average performance rating of 2.51.
-    Lowest Performance: The Sales department has the lowest performance rating, standing at 2.48.
-    Decline in Performance: There's a slight decrease in performance ratings from departments like Support, Hardware, and Software (all tied at 2.50) to Human Resources (2.49) and finally Sales.
+* Highest Performance: The Research & Development department has the highest average performance rating of 2.51.
+* Lowest Performance: The Sales department has the lowest performance rating, standing at 2.48.
+* There's a slight decrease in performance ratings from departments like Support, Hardware, and Software (all tied at 2.50) to Human Resources (2.49) and finally Sales.
 The chart highlights the need for additional attention to departments with lower performance ratings, particularly Sales and Human Resources, to improve overall department performance
 
 
-![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
+4. Duration of Tenure:
+  
+ ![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
 
-4.     Increasing Gap with Tenure: As employees' tenure at the company increases, the number of years since their last promotion tends to rise significantly.
-        After 1 year at the company, the time since last promotion is just 1 year.
-        After 10 years, the gap rises to around 5.94 years.
-        After 30 years, it reaches 13.69 years.
-        By the time an employee has been with the company for 40 years, the gap increases to 22 years.
-
-This indicates a possible delay in promotions for long-tenured employees, which could potentially affect morale and attrition if not addressed properly.
+The above fig delivers the following insights:
+* Increasing Gap with Tenure: As employees' tenure at the company increases, the number of years since their last promotion tends to   rise significantly.
+* After 1 year at the company, the time since last promotion is just 1 year.
+* After 10 years, the gap rises to around 5.94 years.
+* After 30 years, it reaches 13.69 years.
+* By the time an employee has been with the company for 40 years, the gap increases to 22 years.
+  This indicates a possible delay in promotions for long-tenured employees, which could potentially affect morale and attrition if not    addressed properly.
 
 ![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
 
