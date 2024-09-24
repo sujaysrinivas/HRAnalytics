@@ -45,8 +45,8 @@ The above fig delivers the following insights:
 The above fig delivers the following insights:
 * Highest Performance: The Research & Development department has the highest average performance rating of 2.51.
 * Lowest Performance: The Sales department has the lowest performance rating, standing at 2.48.
-* There's a slight decrease in performance ratings from departments like Support, Hardware, and Software (all tied at 2.50) to Human Resources (2.49) and finally Sales.
-The chart highlights the need for additional attention to departments with lower performance ratings, particularly Sales and Human Resources, to improve overall department performance
+* There's a slight decrease in performance ratings from departments like Support, Hardware, and Software (all tied at 2.50) to Human   Resources (2.49) and finally Sales.
+* The chart highlights the need for additional attention to departments with lower performance ratings, particularly Sales and Human Resources, to improve overall department performance
 
 
 4. Duration of Tenure:
@@ -61,15 +61,37 @@ The above fig delivers the following insights:
 * By the time an employee has been with the company for 40 years, the gap increases to 22 years.
   This indicates a possible delay in promotions for long-tenured employees, which could potentially affect morale and attrition if not    addressed properly.
 
+
+5. Performance wise Salary hike:
+
 ![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
 
-5.Performance wise Salary hike
+The above fig delivers the following insights:
+* The highest percent salary hikes (24.71%) are in the Human Resources and Research & Development departments.
+* The percent salary hike decreases progressively through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments.
+* There is a consistent downward trend in salary hikes as you move across departments.
+* This suggests that the Human Resources and Research & Development departments have higher average salary hikes based on performance, while Sales has the lowest
+
+6. Training time vs avg performance rating:
 
 ![Screenshot (912)](https://github.com/user-attachments/assets/6c64555f-00cd-4b80-ab11-23d72782dfe9)
-6. Training time vs avg performance rating
 
+The above fig delivers the following insights:
+* Training time ranges from 1 to 6.
+* Performance ratings are relatively clustered between 2.46 and 2.52.
+* The data points seem to show that as training time increases, there is a slight upward trend in average performance rating, with the highest rating of approximately 2.52 at a training time of 6.
+* The chart could indicate that employees who spend more time in training tend to have slightly higher performance ratings, though the variation is small.
+
+
+7. Attrition vs distance from home:
+   
 ![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
-7. Attrition vs distance from home
+
+The above fig delivers the following insights:
+* The attrition count fluctuates significantly across different distances.
+* There are peaks at 10 (525), 20 (547), 30 (540), 40 (541), and another near 50 (539).
+* The lowest attrition count appears to be around 40 (463).
+* This graph seems to suggest that employee attrition rates vary with the distance employees have to travel from their homes.
 
 
 
