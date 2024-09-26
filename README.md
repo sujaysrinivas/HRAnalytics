@@ -34,32 +34,36 @@ The Data analysis process delivered the following insights:
    ![369758622-be55a212-161a-4572-aec0-eb202c235d29](https://github.com/user-attachments/assets/77e0ffc6-632b-4fc7-81d7-85a413faffff)
 
 The above fig delivers the following insights:
-* Highest Work-Life Balance: Research Scientists have the highest average work-life balance score at 2.514.
-* Lowest Work-Life Balance: Sales Executives have the lowest score at 2.469.
-* There is a gradual decline in work-life balance as we move from Research Scientists to Sales Executives
+
+* Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514.
+* Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469.
+* Trend Analysis: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life satisfaction across these roles
+
 
 3. Performance Rating:
 
 ![Screenshot (909)](https://github.com/user-attachments/assets/250d72a8-9b50-4f4b-a253-bcca4ef5bc87)
 
 The above fig delivers the following insights:
-* Highest Performance: The Research & Development department has the highest average performance rating of 2.51.
-* Lowest Performance: The Sales department has the lowest performance rating, standing at 2.48.
-* There's a slight decrease in performance ratings from departments like Support, Hardware, and Software (all tied at 2.50) to Human   Resources (2.49) and finally Sales.
-* The chart highlights the need for additional attention to departments with lower performance ratings, particularly Sales and Human Resources, to improve overall department performance
+* Highest Performance: The Research & Development department achieves the highest average performance rating of 2.51.
+* Lowest Performance: The Sales department records the lowest performance rating at 2.48.
+* Performance Trend: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources (2.49), and finally to Sales.
+* Key Insight: The chart underscores the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall departmental performance.
 
 
-4. Duration of Tenure:
+
+4.Tenure:
   
  ![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
 
 The above fig delivers the following insights:
-* Increasing Gap with Tenure: As employees' tenure at the company increases, the number of years since their last promotion tends to   rise significantly.
-* After 1 year at the company, the time since last promotion is just 1 year.
-* After 10 years, the gap rises to around 5.94 years.
-* After 30 years, it reaches 13.69 years.
-* By the time an employee has been with the company for 40 years, the gap increases to 22 years.
-  This indicates a possible delay in promotions for long-tenured employees, which could potentially affect morale and attrition if not    addressed properly.
+There is a notable trend whereby the duration since an employee's last promotion tends to increase significantly with their tenure at the company.
+* After 1 year of employment, the time since the last promotion is approximately 1 year.
+* After 10 years, this gap expands to approximately 5.94 years.
+* At the 30-year mark, the duration reaches 13.69 years.
+* By the time an employee has been with the company for 40 years, the gap extends to 22 years.
+* Key Insight: This trend suggests a potential delay in promotions for long-tenured employees, which may adversely impact morale and increase attrition if not adequately addressed
+
 
 
 5. Performance wise Salary hike:
@@ -67,20 +71,22 @@ The above fig delivers the following insights:
 ![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
 
 The above fig delivers the following insights:
-* The highest percent salary hikes (24.71%) are in the Human Resources and Research & Development departments.
-* The percent salary hike decreases progressively through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments.
-* There is a consistent downward trend in salary hikes as you move across departments.
-* This suggests that the Human Resources and Research & Development departments have higher average salary hikes based on performance, while Sales has the lowest
+* Highest Salary Hikes: The Human Resources and Research & Development departments report the highest percentage salary hikes, at 24.71%.
+* Progressive Decrease: The percentage salary hike gradually declines through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments.
+* Overall Trend: There is a consistent downward trend in salary hikes across the various departments.
+* Key Insight: This trend indicates that the Human Resources and Research & Development departments provide higher average salary increases based on performance, while the Sales department offers the lowest percentage salary hikes.
+
 
 6. Training time vs avg performance rating:
 
 ![Screenshot (912)](https://github.com/user-attachments/assets/6c64555f-00cd-4b80-ab11-23d72782dfe9)
 
 The above fig delivers the following insights:
-* Training time ranges from 1 to 6.
-* Performance ratings are relatively clustered between 2.46 and 2.52.
-* The data points seem to show that as training time increases, there is a slight upward trend in average performance rating, with the highest rating of approximately 2.52 at a training time of 6.
-* The chart could indicate that employees who spend more time in training tend to have slightly higher performance ratings, though the variation is small.
+* Training Duration: Training time varies from 1 to 6 hours.
+* Performance Ratings: Performance ratings are relatively clustered within the range of 2.46 to 2.52.
+* Trend Analysis: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at approximately 2.52 for a training duration of 6 hours.
+* Insight: The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in ratings is minimal.
+
 
 
 7. Attrition vs distance from home:
@@ -88,11 +94,10 @@ The above fig delivers the following insights:
 ![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
 
 The above fig delivers the following insights:
-* The attrition count fluctuates significantly across different distances.
-* There are peaks at 10 (525), 20 (547), 30 (540), 40 (541), and another near 50 (539).
-* The lowest attrition count appears to be around 40 (463).
-* This graph seems to suggest that employee attrition rates vary with the distance employees have to travel from their homes.
-
+* Attrition Count Analysis: The attrition count exhibits significant fluctuations across varying travel distances.
+* Peaks Observed: Notable peaks in attrition count are identified at distances of 10 (525), 20 (547), 30 (540), 40 (541), and again near 50 (539).
+* Lowest Count: The lowest attrition count occurs at a distance of approximately 40, with a total of 463.
+* Key Insight: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential correlation between travel distance and attrition levels.
 
 
 ### Conclusion 
