@@ -1,9 +1,10 @@
 # HR-Analytics
-![HRA_1](https://github.com/user-attachments/assets/eac03acb-ea0c-43d9-a1c2-e3854255c0c3)
+![Screenshot (926)](https://github.com/user-attachments/assets/6ebf79e2-b043-47e8-9118-7e87cd5559ed)
+
 **Page 1**
 
+![Screenshot (927)](https://github.com/user-attachments/assets/53827fbd-0b23-4bf9-9fef-3ce066f0a4fe)
 
-![HRA_2](https://github.com/user-attachments/assets/a33ad489-bd70-4ef6-80a4-9a6df47dad7d)
 **Page 2**
 
 ### Objective
