@@ -100,7 +100,7 @@ The above fig delivers the following insights:
 * Key Insight: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential correlation between travel distance and attrition levels.
 
 
-### Conclusion 
+### Insights and Recommendations
 From the dashboard, we can conclude the following:
 1. The Attrition Rate is about 50.21%. It can only be reduced when all the employee issues are addressed by the management
 2. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving. Addressing this issue will reduce the departure of large number of employees
