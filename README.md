@@ -112,6 +112,31 @@ The above fig delivers the following insights:
 * Lowest Count: The lowest attrition count occurs at a distance of approximately 40, with a total of 463.
 * Key Insight: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential correlation between travel distance and attrition levels.
 
+   
+8. Over Time VS Performance Rating: 
+   
+![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
+
+
+The graph you've shared shows the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human Resources, Research & Development, Sales, Software, and Support.
+Key Observations:
+
+    No Overtime:
+        Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51).
+        The departments Software (2.51) and Support (2.50) show slightly higher average performance ratings, while Sales shows a relatively lower rating of 2.49.
+
+    Yes (With Overtime):
+        When overtime is present, there's a notable variation:
+            Sales shows a significant drop in performance rating (from 2.49 to 2.46).
+            Research & Development, Support, and Software show slight improvements, with Support having the highest rating (2.52) among all.
+            Hardware remains relatively stable, with a marginal increase in rating from 2.50 to 2.51.
+
+General Trends:
+
+    Impact of Overtime: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it slightly boosts the performance rating.
+    Stable Performance: Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees are working overtime or not.
+
+
 
 ### Insights and Recommendations
 From the dashboard, we can conclude the following:
