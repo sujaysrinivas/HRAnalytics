@@ -7,6 +7,18 @@
 
 **Page 2**
 
+### Introduction
+* HR Analytics, also known as Human Resources Analytics or People Analytics, is the process of collecting, analyzing, and interpreting employee-related data to improve HR functions and overall organizational performance. It involves the use of data-driven methods and tools to gain insights into workforce trends, employee behaviors, and HR processes like recruitment, performance management, employee retention, and more.
+
+* The goal of HR Analytics is to inform better decision-making by using data to:
+1. Optimize hiring and recruitment processes.
+2. Improve employee engagement and retention.
+3. Enhance workforce planning and talent management.
+4. Drive diversity and inclusion initiatives.
+5. Link HR activities to business outcomes, like productivity and profitability.
+
+* HR Analytics helps organizations transform their HR function from a reactive, transactional role to a strategic partner that drives business success through data-driven insights.
+
 ### Objective
 The primary objective of this project is to determine the company's attrition rate and identify the key factors influencing employee turnover.
 
