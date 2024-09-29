@@ -115,7 +115,7 @@ The above fig delivers the following insights:
    
 8. Over Time VS Performance Rating: 
    
-![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
+![Screenshot (930)](https://github.com/user-attachments/assets/46ea2044-7bc5-467f-acea-5761e826b206)
 
 
 The graph you've shared shows the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human Resources, Research & Development, Sales, Software, and Support.
@@ -136,7 +136,26 @@ General Trends:
     Impact of Overtime: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it slightly boosts the performance rating.
     Stable Performance: Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees are working overtime or not.
 
+9.Attrition vs Business travel
+ ![Screenshot (931)](https://github.com/user-attachments/assets/c5ba9865-ecdf-4ed7-bad7-95be396d7fbf)
 
+The graph you provided illustrates the relationship between Attrition and Business Travel Frequency, with three categories: Non-Travel, Travel Frequently, and Travel Rarely. The bar chart represents the Attrition Count for each category.
+Key Insights:
+
+    Non-Travel:
+        The highest attrition count is observed in the Non-Travel group, with a count of 16.92K. This suggests that employees who do not travel for business tend to leave the organization more frequently compared to those who travel.
+
+    Travel Frequently:
+        Employees who Travel Frequently show an attrition count of 16.59K. Although this count is slightly lower than the Non-Travel group, it indicates that frequent travel might be a contributing factor to attrition, though not as pronounced as the Non-Travel group.
+
+    Travel Rarely:
+        The Travel Rarely category has the lowest attrition count at 16.49K. Employees who travel occasionally for business seem to be less likely to leave the organization compared to the other groups.
+
+General Trends:
+
+    Non-Traveling Employees Leave More: Employees who do not travel for business are more prone to leaving the company. This could imply that travel opportunities or exposure might be a motivating factor for employee retention.
+    Frequent Travelers: While frequent travel might lead to some degree of attrition, it appears less impactful than being in a role with no travel at all. However, high levels of travel can still contribute to turnover, likely due to the potential for burnout or work-life imbalance.
+    Occasional Travel Might Improve Retention: Employees who travel rarely seem to have the lowest attrition, which could suggest that occasional travel might strike a balance between work engagement and avoiding travel-related stress.
 
 ### Insights and Recommendations
 From the dashboard, we can conclude the following:
