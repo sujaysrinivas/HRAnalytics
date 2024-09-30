@@ -44,9 +44,9 @@ The Data analysis process delivered the following insights:
 
 2. Work Life Balance:
 
-   ![369758622-be55a212-161a-4572-aec0-eb202c235d29](https://github.com/user-attachments/assets/77e0ffc6-632b-4fc7-81d7-85a413faffff)
+<img src="https://github.com/user-attachments/assets/77e0ffc6-632b-4fc7-81d7-85a413faffff.png" width="200" height="400" />
 
-The above fig delivers the following insights:
+  The above fig delivers the following insights:
 
 * Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514.
 * Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469.
