@@ -96,53 +96,42 @@ The line chart above delivers the following:
    
 ![Screenshot (930)](https://github.com/user-attachments/assets/46ea2044-7bc5-467f-acea-5761e826b206)
 
+* The line chart above represents the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human      Resources, Research & Development, Sales, Software, and Support.
+* No Overtime: Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51).
+  The departments Software (2.51) and Support (2.50) show slightly higher average performance ratings, while Sales shows a relatively lower rating of 2.49.
+* Yes (With Overtime): When overtime is present, there's a notable variation:
+  Sales shows a significant drop in performance rating (from 2.49 to 2.46).
+  Research & Development, Support, and Software show slight improvements, with Support having the highest rating (2.52) among all.
+  Hardware remains relatively stable, with a marginal increase in rating from 2.50 to 2.51.
+* Insights: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it    slightly boosts the performance rating. Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees   are working overtime or not.
 
-The graph you've shared shows the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human Resources, Research & Development, Sales, Software, and Support.
-Key Observations:
+#### 9.Attrition vs Business travel
 
-    No Overtime:
-        Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51).
-        The departments Software (2.51) and Support (2.50) show slightly higher average performance ratings, while Sales shows a relatively lower rating of 2.49.
-
-    Yes (With Overtime):
-        When overtime is present, there's a notable variation:
-            Sales shows a significant drop in performance rating (from 2.49 to 2.46).
-            Research & Development, Support, and Software show slight improvements, with Support having the highest rating (2.52) among all.
-            Hardware remains relatively stable, with a marginal increase in rating from 2.50 to 2.51.
-
-General Trends:
-
-    Impact of Overtime: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it slightly boosts the performance rating.
-    Stable Performance: Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees are working overtime or not.
-
-9.Attrition vs Business travel
  ![Screenshot (931)](https://github.com/user-attachments/assets/c5ba9865-ecdf-4ed7-bad7-95be396d7fbf)
 
-The graph you provided illustrates the relationship between Attrition and Business Travel Frequency, with three categories: Non-Travel, Travel Frequently, and Travel Rarely. The bar chart represents the Attrition Count for each category.
-Key Insights:
-
-    Non-Travel:
-        The highest attrition count is observed in the Non-Travel group, with a count of 16.92K. This suggests that employees who do not travel for business tend to leave the organization more frequently compared to those who travel.
-
-    Travel Frequently:
-        Employees who Travel Frequently show an attrition count of 16.59K. Although this count is slightly lower than the Non-Travel group, it indicates that frequent travel might be a contributing factor to attrition, though not as pronounced as the Non-Travel group.
-
-    Travel Rarely:
-        The Travel Rarely category has the lowest attrition count at 16.49K. Employees who travel occasionally for business seem to be less likely to leave the organization compared to the other groups.
-
-General Trends:
-
-    Non-Traveling Employees Leave More: Employees who do not travel for business are more prone to leaving the company. This could imply that travel opportunities or exposure might be a motivating factor for employee retention.
-    Frequent Travelers: While frequent travel might lead to some degree of attrition, it appears less impactful than being in a role with no travel at all. However, high levels of travel can still contribute to turnover, likely due to the potential for burnout or work-life imbalance.
-    Occasional Travel Might Improve Retention: Employees who travel rarely seem to have the lowest attrition, which could suggest that occasional travel might strike a balance between work engagement and avoiding travel-related stress.
+* The clustered bar chart above illustrates the relationship between Attrition and Business Travel Frequency, with three categories: Non-Travel, Travel Frequently,    and Travel Rarely. The bar chart represents the Attrition Count for each category.
+* Non-Travel:The highest attrition count is observed in the Non-Travel group, with a count of 16.92K. This suggests that employees who do not travel for business      tend to leave the organization more frequently compared to those who travel.
+* Travel Frequently:Employees who Travel Frequently show an attrition count of 16.59K. Although this count is slightly lower than the Non-Travel group, it             indicates that frequent travel might be a contributing factor to attrition, though not as pronounced as the Non-Travel group.
+* Travel Rarely:The Travel Rarely category has the lowest attrition count at 16.49K. Employees who travel occasionally for business seem to be less likely to leave    the organization compared to the other groups.
+* Insights: Non-Traveling Employees Leave More: Employees who do not travel for business are more prone to leaving the company. This could imply that travel           opportunities or exposure might be a motivating factor for employee retention.
+* Frequent Travelers: While frequent travel might lead to some degree of attrition, it appears less impactful than being in a role with no travel at all. However,     high levels of travel can still contribute to turnover, likely due to the potential for burnout or work-life imbalance.
+* Occasional Travel Might Improve Retention: Employees who travel rarely seem to have the lowest attrition, which could suggest that occasional travel might strike    a balance between work engagement and avoiding travel-related stress.
 
 ### Insights and Recommendations
-From the dashboard, we can conclude the following:
-1. The Attrition Rate is about 50.21%. It can only be reduced when all the employee issues are addressed by the management
-2. The Work Life Balance in some departments and Job Roles are very low highlighting it as a potential reason for Employees leaving. Addressing this issue will reduce the departure of large number of employees
-3. Identifying Departments with lower performance ratings and providing them with proper Training and necessary support will lead to better performance grades
-4. Providing better Salary structure according to the experience and Performance based Incentives will lead to better employee retention thereby reducing attrition
-
+1. High Attrition Rate (50.21%)
+   The current attrition rate stands at 50.21%. To effectively mitigate this, it is crucial for management to address all underlying employee concerns                  comprehensively. A proactive resolution of these issues will be key to significantly lowering turnover rates.
+2. Work-Life Balance Disparities
+   Certain departments and job roles exhibit notably poor work-life balance, which has emerged as a major factor contributing to employee attrition. Improving work-    life balance within these areas will play a critical role in retaining employees and curbing mass departures.
+3. Targeted Performance Improvement
+   Departments with lower performance ratings can see substantial improvement through targeted training initiatives and enhanced managerial support. By investing       in these underperforming areas, the organization can drive overall performance and productivity improvements.
+4. Compensation Structure Optimization
+   Aligning salary structures with employee experience and implementing performance-based incentives will significantly enhance employee satisfaction. This, in         turn, will lead to stronger retention rates and a corresponding decrease in attrition.
+5. Minimizing the Impact of Overtime
+   Extended overtime has shown limited positive impact on overall performance, with departments like Sales experiencing noticeable declines in output. To safeguard     performance, it is recommended that overtime be strategically minimized, especially in high-impact areas.
+6. Enhancing Career Development through Business Travel
+   Employees who do not engage in business travel are more likely to leave the organization, likely in search of greater professional growth and exposure               opportunities elsewhere. Offering expanded travel opportunities to employees aspiring for career progression can significantly improve retention and reduce          attrition.
+7. Timely Promotions for Long-Tenured Employees
+   A discernible trend indicates delayed promotions for long-tenured employees, which can negatively affect morale and contribute to higher attrition rates. To         counter this, management should prioritize timely promotions for these employees, ensuring they feel valued and incentivized to remain with the organization.
 
 
    
