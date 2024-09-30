@@ -44,10 +44,8 @@ The Data analysis process delivered the following insights:
 
 2. Work Life Balance:
 
-   ![Screenshot (932)]()
-
-
-<img src="https://github.com/user-attachments/assets/d4b75577-1480-4c6a-87e3-807d89a9ebf2).png" width="400" height="400" />
+  
+<img src="https://github.com/user-attachments/assets/ceeceacb-b1a0-4fed-ac2d-bc011eb8c305.png" width="400" height="400" />
 
 
   The above fig delivers the following insights:
