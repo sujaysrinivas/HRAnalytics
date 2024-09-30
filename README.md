@@ -7,89 +7,68 @@
 
 **Page 2**
 
-### Introduction
-* HR Analytics, also known as Human Resources Analytics or People Analytics, is the process of collecting, analyzing, and interpreting employee-related data to improve HR functions and overall organizational performance. It involves the use of data-driven methods and tools to gain insights into workforce trends, employee behaviors, and HR processes like recruitment, performance management, employee retention, and more.
-
-* The goal of HR Analytics is to inform better decision-making by using data to:
-1. Optimize hiring and recruitment processes.
-2. Improve employee engagement and retention.
-3. Enhance workforce planning and talent management.
-4. Drive diversity and inclusion initiatives.
-5. Link HR activities to business outcomes, like productivity and profitability.
-
-* HR Analytics helps organizations transform their HR function from a reactive, transactional role to a strategic partner that drives business success through data-driven insights.
-
-### Objective
-The primary objective of this project is to determine the company's attrition rate and identify the key factors influencing employee turnover.
+### Business Problem
+The business is facing a challenge with high employee attrition, which impacts overall productivity, increases recruitment costs, and disrupts team dynamics. This project aims to leverage data analysis to identify the underlying factors contributing to employee turnover. By uncovering these insights, the organization will be able to implement targeted strategies to reduce attrition rates and improve employee retention, ultimately creating a more stable and productive workforce.
 
 ### Data source
-Analytics Data: The dataset used for this Analysis is the HR Data.csv file
+Dataset: The dataset used for this Analysis is the HR Data.csv file
 
 ### Tools 
 Excel, Power BI
 
 ### Data cleaning
 The following steps were performed in the Data cleaning phase on the Power Query Editor:
-1. Loading the data
-2. Changing the data types of certain variables
-3. Handling missing values and duplicates
-4. Merged the 2 data sets into a single sheet using Merge Queries to create a single data sheet
-5. Data cleaning and formatting
+ 1. Loading the data
+ 2. Changing the data types of certain variables
+ 3. Handling missing values and duplicates
+ 4. Merged the 2 data sets into a single sheet using Merge Queries to create a single data sheet
+ 5. Data cleaning and formatting
 
 ### Data Analysis
 The Data analysis process delivered the following insights:
 
 1. Attrition Rate:
-   The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address    and resolve the concerns and issues faced by employees.
+   The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address    and resolve the concerns      and issues faced by employees
 
 2. Work Life Balance:
 
-  
-<img src="https://github.com/user-attachments/assets/ceeceacb-b1a0-4fed-ac2d-bc011eb8c305.png" width="400" height="400" />
+![Work Life Balance](https://github.com/user-attachments/assets/6f2e1fc5-fd5b-414c-9b79-ce7bad4ad070)
 
-
-  The above fig delivers the following insights:
-
-* Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514.
-* Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469.
-* Trend Analysis: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life satisfaction across these roles
-
+* The area chart above represents Job Role wise Average Work Life Balance
+* Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514
+* Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469
+* Insights: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life           satisfaction across these roles
 
 3. Performance Rating:
 
 ![Screenshot (909)](https://github.com/user-attachments/assets/250d72a8-9b50-4f4b-a253-bcca4ef5bc87)
 
-The above fig delivers the following insights:
-* Highest Performance: The Research & Development department achieves the highest average performance rating of 2.51.
-* Lowest Performance: The Sales department records the lowest performance rating at 2.48.
-* Performance Trend: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources (2.49), and finally to Sales.
-* Key Insight: The chart underscores the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall departmental performance.
-
-
+* The line chart above represents the Department wise Average Performance Rating
+* Highest Performance: The Research & Development department achieves the highest average performance rating of 2.51
+* Lowest Performance: The Sales department records the lowest performance rating at 2.48
+* Insights: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources       and finally to Sales
+* The chart emphasizes the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall          departmental performance
 
 4.Tenure:
   
  ![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
 
-The above fig delivers the following insights:
-There is a notable trend whereby the duration since an employee's last promotion tends to increase significantly with their tenure at the company.
-* After 1 year of employment, the time since the last promotion is approximately 1 year.
-* After 10 years, this gap expands to approximately 5.94 years.
-* At the 30-year mark, the duration reaches 13.69 years.
-* By the time an employee has been with the company for 40 years, the gap extends to 22 years.
-* Key Insight: This trend suggests a potential delay in promotions for long-tenured employees, which may adversely impact morale and increase attrition if not adequately addressed
-
-
+* The area chart above represents the Tenure of the employees at the organization
+* There is a notable trend whereby the duration since an employee's last promotion tends to increase significantly with their tenure at the company:
+* After 1 year of employment, the time since the last promotion is approximately 1 year
+* After 10 years, this gap expands to approximately 5.94 years
+* At the 30-year mark, the duration reaches 13.69 years
+* By the time an employee has been with the company for 40 years, the gap extends to 22 years
+* Insights: This trend suggests a potential delay in promotions for long-tenured employees, which may adversely impact morale and increase attrition if not            adequately addressed
 
 5. Performance wise Salary hike:
 
 ![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
 
-The above fig delivers the following insights:
-* Highest Salary Hikes: The Human Resources and Research & Development departments report the highest percentage salary hikes, at 24.71%.
-* Progressive Decrease: The percentage salary hike gradually declines through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments.
-* Overall Trend: There is a consistent downward trend in salary hikes across the various departments.
-* Key Insight: This trend indicates that the Human Resources and Research & Development departments provide higher average salary increases based on performance, while the Sales department offers the lowest percentage salary hikes.
+* The line chart above represents the Performance wise salary hike
+* Highest Salary Hikes: The Human Resources and Research & Development departments report the highest percentage salary hikes, at 24.71%
+* Low Salary Hikes: The percentage salary hike gradually declines through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments
+* Insights: There is a consistent downward trend in salary hikes across the various departments. This trend indicates that the Human Resources and Research &          Development departments provide higher average salary increases based on performance, while the Sales department offers the lowest percentage salary hikes
 
 
 6. Training time vs avg performance rating:
@@ -99,8 +78,8 @@ The above fig delivers the following insights:
 The above fig delivers the following insights:
 * Training Duration: Training time varies from 1 to 6 hours.
 * Performance Ratings: Performance ratings are relatively clustered within the range of 2.46 to 2.52.
-* Trend Analysis: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at approximately 2.52 for a training duration of 6 hours.
-* Insight: The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in ratings is minimal.
+* Trend Analysis: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at         approximately 2.52 for a training duration of 6 hours.
+* Insight: The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in          ratings is minimal.
 
 
 
