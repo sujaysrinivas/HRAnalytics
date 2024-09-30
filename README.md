@@ -27,10 +27,11 @@ The following steps were performed in the Data cleaning phase on the Power Query
 ### Data Analysis
 The Data analysis process delivered the following insights:
 
-1. Attrition Rate:
-   The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address    and resolve the concerns      and issues faced by employees
+#### 1. Attrition Rate
 
-2. Work Life Balance:
+The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address and resolve the               concerns and issues faced by employees
+
+#### 2. Work Life Balance
 
 ![Work Life Balance](https://github.com/user-attachments/assets/6f2e1fc5-fd5b-414c-9b79-ce7bad4ad070)
 
@@ -39,7 +40,7 @@ The Data analysis process delivered the following insights:
 * Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469
 * Insights: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life           satisfaction across these roles
 
-3. Performance Rating:
+#### 3. Performance Rating
 
 ![Screenshot (909)](https://github.com/user-attachments/assets/250d72a8-9b50-4f4b-a253-bcca4ef5bc87)
 
@@ -49,7 +50,7 @@ The Data analysis process delivered the following insights:
 * Insights: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources       and finally to Sales
 * The chart emphasizes the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall          departmental performance
 
-4.Tenure:
+#### 4. Tenure
   
  ![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
 
@@ -61,7 +62,7 @@ The Data analysis process delivered the following insights:
 * By the time an employee has been with the company for 40 years, the gap extends to 22 years
 * Insights: This trend suggests a potential delay in promotions for long-tenured employees, which may adversely impact morale and increase attrition if not            adequately addressed
 
-5. Performance wise Salary hike:
+#### 5. Performance wise Salary Hike
 
 ![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
 
@@ -71,30 +72,27 @@ The Data analysis process delivered the following insights:
 * Insights: There is a consistent downward trend in salary hikes across the various departments. This trend indicates that the Human Resources and Research &          Development departments provide higher average salary increases based on performance, while the Sales department offers the lowest percentage salary hikes
 
 
-6. Training time vs avg performance rating:
+#### 6. Training time vs Average Performance Rating
 
 ![Screenshot (912)](https://github.com/user-attachments/assets/6c64555f-00cd-4b80-ab11-23d72782dfe9)
 
-The above fig delivers the following insights:
+* The scatter plot above represents the Training time vs Average Performance rating
 * Training Duration: Training time varies from 1 to 6 hours.
 * Performance Ratings: Performance ratings are relatively clustered within the range of 2.46 to 2.52.
-* Trend Analysis: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at         approximately 2.52 for a training duration of 6 hours.
-* Insight: The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in          ratings is minimal.
+* Insights: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at               approximately 2.52 for a training duration of 6 hours.
+* The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in                   ratings is minimal.
 
-
-
-7. Attrition vs distance from home:
+#### 7. Attrition vs Distance From Home
    
 ![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
 
-The above fig delivers the following insights:
+The line chart above delivers the following:
 * Attrition Count Analysis: The attrition count exhibits significant fluctuations across varying travel distances.
 * Peaks Observed: Notable peaks in attrition count are identified at distances of 10 (525), 20 (547), 30 (540), 40 (541), and again near 50 (539).
 * Lowest Count: The lowest attrition count occurs at a distance of approximately 40, with a total of 463.
-* Key Insight: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential correlation between travel distance and attrition levels.
-
+* Insights: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential            correlation between travel distance and attrition levels.
    
-8. Over Time VS Performance Rating: 
+#### 8. Over Time vs Performance Rating 
    
 ![Screenshot (930)](https://github.com/user-attachments/assets/46ea2044-7bc5-467f-acea-5761e826b206)
 
