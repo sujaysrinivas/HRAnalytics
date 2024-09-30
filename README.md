@@ -118,19 +118,19 @@ The line chart above delivers the following:
 * Occasional Travel Might Improve Retention: Employees who travel rarely seem to have the lowest attrition, which could suggest that occasional travel might strike    a balance between work engagement and avoiding travel-related stress.
 
 ### Insights and Recommendations
-1. High Attrition Rate (50.21%)
+#### 1. High Attrition Rate (50.21%)
    The current attrition rate stands at 50.21%. To effectively mitigate this, it is crucial for management to address all underlying employee concerns                  comprehensively. A proactive resolution of these issues will be key to significantly lowering turnover rates.
-2. Work-Life Balance Disparities
+#### 2. Work-Life Balance Disparities
    Certain departments and job roles exhibit notably poor work-life balance, which has emerged as a major factor contributing to employee attrition. Improving work-    life balance within these areas will play a critical role in retaining employees and curbing mass departures.
-3. Targeted Performance Improvement
+#### 3. Targeted Performance Improvement
    Departments with lower performance ratings can see substantial improvement through targeted training initiatives and enhanced managerial support. By investing       in these underperforming areas, the organization can drive overall performance and productivity improvements.
-4. Compensation Structure Optimization
+#### 4. Compensation Structure Optimization
    Aligning salary structures with employee experience and implementing performance-based incentives will significantly enhance employee satisfaction. This, in         turn, will lead to stronger retention rates and a corresponding decrease in attrition.
-5. Minimizing the Impact of Overtime
+#### 5. Minimizing the Impact of Overtime
    Extended overtime has shown limited positive impact on overall performance, with departments like Sales experiencing noticeable declines in output. To safeguard     performance, it is recommended that overtime be strategically minimized, especially in high-impact areas.
-6. Enhancing Career Development through Business Travel
+#### 6. Enhancing Career Development through Business Travel
    Employees who do not engage in business travel are more likely to leave the organization, likely in search of greater professional growth and exposure               opportunities elsewhere. Offering expanded travel opportunities to employees aspiring for career progression can significantly improve retention and reduce          attrition.
-7. Timely Promotions for Long-Tenured Employees
+#### 7. Timely Promotions for Long-Tenured Employees
    A discernible trend indicates delayed promotions for long-tenured employees, which can negatively affect morale and contribute to higher attrition rates. To         counter this, management should prioritize timely promotions for these employees, ensuring they feel valued and incentivized to remain with the organization.
 
 
