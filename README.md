@@ -1,11 +1,10 @@
-# HR-Analytics
+# HR Analytics
 
 **Page 1**
-![HR 1](https://github.com/user-attachments/assets/0132c635-20f0-442c-8bfe-77bc4d570789)
-
+![HR 1](https://github.com/user-attachments/assets/7f723c3e-eead-448b-a311-bef9a597cc50)
 
 **Page 2**
-![HR 2](https://github.com/user-attachments/assets/8741407e-62fc-4abe-9edb-780a8d6a697e)
+![HR 2](https://github.com/user-attachments/assets/94010081-8c39-4807-bae7-1f79076f0236)
 
 ### Business Problem
 The business is facing a challenge with high employee attrition, which impacts overall productivity, increases recruitment costs, and disrupts team dynamics. This project aims to leverage data analysis to identify the underlying factors contributing to employee turnover. By uncovering these insights, the organization will be able to implement targeted strategies to reduce attrition rates and improve employee retention, ultimately creating a more stable and productive workforce.
