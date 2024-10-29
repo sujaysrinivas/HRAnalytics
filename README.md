@@ -1,10 +1,12 @@
 # HR Analytics
 
 **Page 1**
-![HR 1](https://github.com/user-attachments/assets/7f723c3e-eead-448b-a311-bef9a597cc50)
+![Page 1](https://github.com/user-attachments/assets/e79b8dd3-a6f7-4945-9532-71fae4e53ecc)
+
 
 **Page 2**
-![HR 2](https://github.com/user-attachments/assets/94010081-8c39-4807-bae7-1f79076f0236)
+![Page 2](https://github.com/user-attachments/assets/809e910d-f1f6-4f04-884b-ef67416cd44a)
+
 
 ## Project Overview
 
@@ -52,7 +54,8 @@ The current attrition rate stands at 50.21%. To effectively reduce this rate, it
 
 #### 2. Work Life Balance
 
-![Work Life Balance](https://github.com/user-attachments/assets/6f2e1fc5-fd5b-414c-9b79-ce7bad4ad070)
+![1  Work Life Balance](https://github.com/user-attachments/assets/bcb84c00-6a64-4cee-a26e-1ffab43a9955)
+
 
 * The area chart above represents Job Role wise Average Work Life Balance
 * Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514
@@ -61,7 +64,8 @@ The current attrition rate stands at 50.21%. To effectively reduce this rate, it
 
 #### 3. Performance Rating
 
-![Screenshot (909)](https://github.com/user-attachments/assets/250d72a8-9b50-4f4b-a253-bcca4ef5bc87)
+![2  Performance Rating](https://github.com/user-attachments/assets/e203f734-7bf7-4caa-95d8-c39cca07e2ee)
+
 
 * The line chart above represents the Department wise Average Performance Rating
 * Highest Performance: The Research & Development department achieves the highest average performance rating of 2.51
@@ -71,7 +75,8 @@ The current attrition rate stands at 50.21%. To effectively reduce this rate, it
 
 #### 4. Tenure
   
- ![Screenshot (910)](https://github.com/user-attachments/assets/1c6bcc8b-5419-4485-a2ce-9e77e75fc89f)
+![3  Tenure](https://github.com/user-attachments/assets/b94d4330-cad3-4999-a2b8-e35e868df102)
+
 
 * The area chart above represents the Tenure of the employees at the organization
 * There is a notable trend whereby the duration since an employee's last promotion tends to increase significantly with their tenure at the company:
@@ -83,7 +88,8 @@ The current attrition rate stands at 50.21%. To effectively reduce this rate, it
 
 #### 5. Performance wise Salary Hike
 
-![Screenshot (911)](https://github.com/user-attachments/assets/f1340319-379d-412f-be59-338a0499dd03)
+![4  Salary Hike](https://github.com/user-attachments/assets/40961d18-d45b-470b-8600-97d741599429)
+
 
 * The line chart above represents the Performance wise salary hike
 * Highest Salary Hikes: The Human Resources and Research & Development departments report the highest percentage salary hikes, at 24.71%
@@ -103,7 +109,8 @@ The current attrition rate stands at 50.21%. To effectively reduce this rate, it
 
 #### 7. Attrition vs Distance From Home
    
-![Screenshot (913)](https://github.com/user-attachments/assets/0b98262a-6aeb-41f1-912e-09857815f67d)
+![6  Attrition vs DFH](https://github.com/user-attachments/assets/add20274-f41e-4c27-b685-56ae89c20692)
+
 
 The line chart above delivers the following:
 * Attrition Count Analysis: The attrition count exhibits significant fluctuations across varying travel distances.
@@ -113,7 +120,8 @@ The line chart above delivers the following:
    
 #### 8. Over Time vs Performance Rating 
    
-![Screenshot (930)](https://github.com/user-attachments/assets/46ea2044-7bc5-467f-acea-5761e826b206)
+![7  Overtime](https://github.com/user-attachments/assets/b0864f07-88bc-486d-bc54-98c49653a5d5)
+
 
 * The line chart above represents the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human      Resources, Research & Development, Sales, Software, and Support.
 * No Overtime: Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51).
@@ -126,7 +134,8 @@ The line chart above delivers the following:
 
 #### 9.Attrition vs Business travel
 
- ![Screenshot (931)](https://github.com/user-attachments/assets/c5ba9865-ecdf-4ed7-bad7-95be396d7fbf)
+ ![8  Attrition vs Business Travel](https://github.com/user-attachments/assets/df107e2b-6f47-42dd-b22a-7d890f0c679e)
+
 
 * The clustered bar chart above illustrates the relationship between Attrition and Business Travel Frequency, with three categories: Non-Travel, Travel Frequently,    and Travel Rarely. The bar chart represents the Attrition Count for each category.
 * Non-Travel:The highest attrition count is observed in the Non-Travel group, with a count of 16.92K. This suggests that employees who do not travel for business      tend to leave the organization more frequently compared to those who travel.
