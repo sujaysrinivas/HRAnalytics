@@ -1,6 +1,6 @@
 # HR Analytics
 
-[https://github.com/sujaysrinivas/HRAnalytics/blob/main/HR_Analytics.png]
+[https://github.com/sujaysrinivas/HRAnalytics/blob/main/HR_Analytics.png] 
 
 ## Project Overview
 
