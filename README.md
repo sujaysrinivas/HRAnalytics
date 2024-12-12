@@ -51,100 +51,83 @@ The Data analysis process delivered the following insights:
 
 #### 1. Attrition Rate
 
-The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address and resolve the               concerns and issues faced by employees
+The current attrition rate stands at 50.21%. To effectively reduce this rate, it is essential for management to proactively address and resolve the concerns and issues faced by employees
 
-#### 2. Work Life Balance
+#### 2. Department wise Total Employees
 
-![1  Work Life Balance](https://github.com/user-attachments/assets/bcb84c00-6a64-4cee-a26e-1ffab43a9955)
+![Dept wise Total Employees](https://github.com/user-attachments/assets/f9e6ad29-7493-4833-bda6-f3a51071ffa5)
 
+The donut chart above displays the total number of employees in each department, along with their percentage share of the organization's workforce.
+* Insights:The distribution of employees across departments is relatively uniform, with each department comprising approximately 16-17% of the total workforce.
+* Departments like Sales, Human Resources, and Software have slightly higher employee counts than others, which may indicate their critical role in the organization.
+* The even distribution suggests balanced hiring policies or equivalent workforce needs across departments.
+
+#### 3. Overtime vs Performance Rating
+
+![Overtime vs Performance Rating](https://github.com/user-attachments/assets/23c510d7-e7f9-431f-ab7b-b05daebf65ad)
+
+* The line chart above represents the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human Resources, Research & Development, Sales, Software, and Support.
+* No Overtime: Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51). The departments Software (2.51) and Support (2.50) show slightly higher average performance ratings, while Sales shows a relatively lower rating of 2.49.
+* Yes (With Overtime): When overtime is present, there's a notable variation: Sales shows a significant drop in performance rating (from 2.49 to 2.46). Research & Development, Support, and Software show slight improvements, with Support having the highest rating (2.52) among all. Hardware remains relatively stable, with a marginal increase in rating from 2.50 to 2.51.
+* Insights: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it slightly boosts the performance rating. Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees are working overtime or not
+
+#### 4. Overall tenure at the company
+  
+![Overall Tenure at the Company](https://github.com/user-attachments/assets/8090a921-fa8f-4e9f-8a0d-b037c54cd465)
+
+* The line chart above illustrates the average overall tenure of employees across various departments in the organization.
+* Insights:Employees in the Sales department have the highest average tenure (10.84 years), indicating either high job satisfaction or lower turnover in this department.
+* The Research & Development department shows the lowest average tenure (10.68 years), which might highlight challenges in retaining employees in that department.
+* The tenure differences across departments are relatively small, suggesting that overall employee retention strategies may be consistently effective across the organization.
+
+#### 5. Attrition vs Distance from home
+
+![Attrition vs Distance from Home](https://github.com/user-attachments/assets/e4934d01-17c7-4925-874c-1753506f7899)
+
+* The line chart above illustrates the influence of Distance from home on the Attrition rate
+* Attrition Count Analysis: The attrition count exhibits significant fluctuations across varying travel distances.
+* Peaks Observed: Notable peaks in attrition count are identified at distances of 10 (525), 20 (547), 30 (540), 40 (541), and again near 50 (539).
+* Lowest Count: The lowest attrition count occurs at a distance of approximately 40, with a total of 463.
+* Insights: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential correlation between travel distance and attrition levels
+
+#### 6. Job Role wise average work life balance
+
+![Job Role wise Average Work Life balance](https://github.com/user-attachments/assets/0702d8d2-d344-46f6-a3ba-7ceea603d749)
 
 * The area chart above represents Job Role wise Average Work Life Balance
 * Highest Work-Life Balance: Research Scientists exhibit the highest average work-life balance score, measured at 2.514
 * Lowest Work-Life Balance: Sales Executives demonstrate the lowest average score, at 2.469
-* Insights: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life           satisfaction across these roles
+* Insights: There is a discernible decline in work-life balance from Research Scientists to Sales Executives, indicating a progressive decrease in work-life satisfaction across these roles
 
-#### 3. Performance Rating
-
-![2  Performance Rating](https://github.com/user-attachments/assets/e203f734-7bf7-4caa-95d8-c39cca07e2ee)
-
+#### 7. Department wise Average performance rating
+   
+![Dept wise Average Performance Rating](https://github.com/user-attachments/assets/e33827a3-adba-492b-99f7-52470d245cfb)
 
 * The line chart above represents the Department wise Average Performance Rating
 * Highest Performance: The Research & Development department achieves the highest average performance rating of 2.51
 * Lowest Performance: The Sales department records the lowest performance rating at 2.48
-* Insights: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources       and finally to Sales
-* The chart emphasizes the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall          departmental performance
+* Insights: There is a marginal decline in performance ratings, moving from departments such as Support, Hardware, and Software (all at 2.50) to Human Resources and finally to Sales
+* The chart emphasizes the need for strategic focus on departments with lower performance ratings, particularly Sales and Human Resources, to enhance overall departmental performance
 
-#### 4. Tenure
-  
-![3  Tenure](https://github.com/user-attachments/assets/b94d4330-cad3-4999-a2b8-e35e868df102)
-
-
-* The area chart above represents the Tenure of the employees at the organization
-* There is a notable trend whereby the duration since an employee's last promotion tends to increase significantly with their tenure at the company:
-* After 1 year of employment, the time since the last promotion is approximately 1 year
-* After 10 years, this gap expands to approximately 5.94 years
-* At the 30-year mark, the duration reaches 13.69 years
-* By the time an employee has been with the company for 40 years, the gap extends to 22 years
-* Insights: This trend suggests a potential delay in promotions for long-tenured employees, which may adversely impact morale and increase attrition if not            adequately addressed
-
-#### 5. Performance wise Salary Hike
-
-![4  Salary Hike](https://github.com/user-attachments/assets/40961d18-d45b-470b-8600-97d741599429)
-
-
-* The line chart above represents the Performance wise salary hike
-* Highest Salary Hikes: The Human Resources and Research & Development departments report the highest percentage salary hikes, at 24.71%
-* Low Salary Hikes: The percentage salary hike gradually declines through the Software (24.64%), Support (24.57%), Hardware (24.55%), and Sales (24.53%) departments
-* Insights: There is a consistent downward trend in salary hikes across the various departments. This trend indicates that the Human Resources and Research &          Development departments provide higher average salary increases based on performance, while the Sales department offers the lowest percentage salary hikes
-
-
-#### 6. Training time vs Average Performance Rating
-
-![Screenshot (912)](https://github.com/user-attachments/assets/6c64555f-00cd-4b80-ab11-23d72782dfe9)
+#### 8. Training time vs performance rating
+   
+![Training time vs Performance Rating](https://github.com/user-attachments/assets/1bc6d9f5-d3a0-4a1c-9af7-f65c43eaa603)
 
 * The scatter plot above represents the Training time vs Average Performance rating
 * Training Duration: Training time varies from 1 to 6 hours.
 * Performance Ratings: Performance ratings are relatively clustered within the range of 2.46 to 2.52.
-* Insights: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at               approximately 2.52 for a training duration of 6 hours.
-* The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in                   ratings is minimal.
+* Insights: The data points suggest a slight upward trend in average performance ratings as training time increases, with the highest rating observed at approximately 2.52 for a training duration of 6 hours.
+* The chart implies that employees who invest more time in training tend to achieve marginally higher performance ratings, although the variation in ratings is minimal
 
-#### 7. Attrition vs Distance From Home
-   
-![6  Attrition vs DFH](https://github.com/user-attachments/assets/add20274-f41e-4c27-b685-56ae89c20692)
+#### 9. Department wise average stock options
 
+ ![Dept wise Average stock option](https://github.com/user-attachments/assets/75339b74-25cb-49b7-88e3-53f6280a4e59)
 
-The line chart above delivers the following:
-* Attrition Count Analysis: The attrition count exhibits significant fluctuations across varying travel distances.
-* Peaks Observed: Notable peaks in attrition count are identified at distances of 10 (525), 20 (547), 30 (540), 40 (541), and again near 50 (539).
-* Lowest Count: The lowest attrition count occurs at a distance of approximately 40, with a total of 463.
-* Insights: This graph suggests that employee attrition rates are influenced by the distance employees must travel from their homes, indicating a potential            correlation between travel distance and attrition levels.
-   
-#### 8. Over Time vs Performance Rating 
-   
-![7  Overtime](https://github.com/user-attachments/assets/b0864f07-88bc-486d-bc54-98c49653a5d5)
+* This pie chart above displays the distribution of stock options granted to employees across various departments within the organization.
+* Insights: The distribution of stock options appears relatively balanced across departments, with each segment contributing approximately equally to the total.
+* Slight variations exist, such as the Research & Development department potentially receiving a slightly larger share of stock options.
+* This balanced distribution might reflect equitable company policies in stock option allocation, fostering employee motivation and satisfaction across all departments.
 
-
-* The line chart above represents the relationship between Overtime and Average Performance Rating across different departments or job functions: Hardware, Human      Resources, Research & Development, Sales, Software, and Support.
-* No Overtime: Performance ratings in all departments with No Overtime seem to hover around a similar range (between 2.49 and 2.51).
-  The departments Software (2.51) and Support (2.50) show slightly higher average performance ratings, while Sales shows a relatively lower rating of 2.49.
-* Yes (With Overtime): When overtime is present, there's a notable variation:
-  Sales shows a significant drop in performance rating (from 2.49 to 2.46).
-  Research & Development, Support, and Software show slight improvements, with Support having the highest rating (2.52) among all.
-  Hardware remains relatively stable, with a marginal increase in rating from 2.50 to 2.51.
-* Insights: In some departments like Sales, overtime appears to have a negative impact on performance ratings, whereas in departments like Support and Software, it    slightly boosts the performance rating. Departments like Hardware and Human Resources show little variation in performance ratings regardless of whether employees   are working overtime or not.
-
-#### 9.Attrition vs Business travel
-
- ![8  Attrition vs Business Travel](https://github.com/user-attachments/assets/df107e2b-6f47-42dd-b22a-7d890f0c679e)
-
-
-* The clustered bar chart above illustrates the relationship between Attrition and Business Travel Frequency, with three categories: Non-Travel, Travel Frequently,    and Travel Rarely. The bar chart represents the Attrition Count for each category.
-* Non-Travel:The highest attrition count is observed in the Non-Travel group, with a count of 16.92K. This suggests that employees who do not travel for business      tend to leave the organization more frequently compared to those who travel.
-* Travel Frequently:Employees who Travel Frequently show an attrition count of 16.59K. Although this count is slightly lower than the Non-Travel group, it             indicates that frequent travel might be a contributing factor to attrition, though not as pronounced as the Non-Travel group.
-* Travel Rarely:The Travel Rarely category has the lowest attrition count at 16.49K. Employees who travel occasionally for business seem to be less likely to leave    the organization compared to the other groups.
-* Insights: Non-Traveling Employees Leave More: Employees who do not travel for business are more prone to leaving the company. This could imply that travel           opportunities or exposure might be a motivating factor for employee retention.
-* Frequent Travelers: While frequent travel might lead to some degree of attrition, it appears less impactful than being in a role with no travel at all. However,     high levels of travel can still contribute to turnover, likely due to the potential for burnout or work-life imbalance.
-* Occasional Travel Might Improve Retention: Employees who travel rarely seem to have the lowest attrition, which could suggest that occasional travel might strike    a balance between work engagement and avoiding travel-related stress.
 
 
 
