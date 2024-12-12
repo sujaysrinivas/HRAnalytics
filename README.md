@@ -1,10 +1,12 @@
 # HR Analytics
 
 ## Page 1
-![HRA_1](https://github.com/user-attachments/assets/2d9b52e5-920c-4e02-93bc-1a2c95b2da50)
+![HRA_1](https://github.com/user-attachments/assets/0c29e0c4-faba-4133-8d2a-7fe94c7cf708)
+
 
 ## Page 2
-![HRA_2](https://github.com/user-attachments/assets/f8c58f02-9e7b-4a1b-8f9b-5e59949cc0aa)
+![HRA_2](https://github.com/user-attachments/assets/4a1be67e-2814-4a68-899a-346ed84f6e1e)
+
 
 
 ## Project Overview
