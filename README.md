@@ -128,10 +128,53 @@ The donut chart above displays the total number of employees in each department,
 * Slight variations exist, such as the Research & Development department potentially receiving a slightly larger share of stock options.
 * This balanced distribution might reflect equitable company policies in stock option allocation, fostering employee motivation and satisfaction across all departments.
 
+#### 10. Department wise Attrition rate
+
+![Dept wise Attrition Rate](https://github.com/user-attachments/assets/053ce41b-177b-430b-8902-5bf657a988e6)
+
+* The above chart represents the Department wise Attrition
+* Highest Attrition: The department with the highest attrition rate is Research & Development with 31.14%. This could indicate challenges specific to this department, such as work pressure, lack of engagement, or dissatisfaction among employees.
+* Lowest Attrition: The Sales department has the lowest attrition rate at 15.71%. This suggests employees in the Sales department may be more satisfied or the job role is better aligned with their expectations.
+* Medium Attrition: The Human Resources (20.33%), Software (23.93%), and Support (20.11%) departments show moderate attrition rates. These numbers are not as concerning as Research & Development but still merit attention for further analysis.
+* Trends: The attrition rate fluctuates significantly across departments. For example, the sharp spike in Research & Development is notable compared to the relatively stable or lower rates in other departments.
+* Departments with lower attrition, such as Sales, may be using retention strategies that could be implemented elsewhere.
+
+ #### 11. Department wise Average Job satisfaction
+
+![Dept wise Average job satisfaction](https://github.com/user-attachments/assets/f69336ac-e440-4523-bf85-d41a69b61f29)
+
+* The above chart represents the Department wise Average job satisfaction levels with a declining trend. Here are some insights based on this visual
+* Highest Job Satisfaction:  The Research & Development department has the highest average job satisfaction level at 3.31. Despite this, the earlier attrition chart showed that this department has the highest attrition rate, indicating a possible disconnect between job satisfaction and other factors (e.g., workload, pay, or growth opportunities).
+* Lowest Job Satisfaction:The Software department has the lowest job satisfaction score at 2.46, which aligns with its moderate attrition rate (23.93%). This suggests dissatisfaction might stem from specific issues like work environment, tasks, or management.
+* Steady Decline: The trend shows a continuous decrease in job satisfaction levels across departments as we move from Research & Development to Software. This indicates that satisfaction factors may be department-specific or tied to the nature of the work.
+* Moderate Satisfaction: Departments like Support (2.90) and Sales (2.69) show average satisfaction levels. While not the lowest, these scores still highlight room for improvement.
+
+ #### 12. Salary hike vs Job satisfaction
+
+![Salary hike vs Job satisfaction](https://github.com/user-attachments/assets/e5b0f17d-0f56-482f-9a35-d3f0ab8d89c5)
+
+* The above chart represents job satisfaction levels vs. percent salary hike, showing a scattered and fluctuating relationship. Here are some insights based on the visualization
+* Inconsistent Relationship: There is no clear linear trend between job satisfaction and percent salary hike. For example, at certain points, a higher salary hike correlates with higher job satisfaction, but at other points, the satisfaction level drops despite an increase in the salary hike.
+* Peaks in Satisfaction: Highest job satisfaction is around 3.89, corresponding to a specific salary hike (possibly near 20%). This indicates that certain salary hikes may significantly boost satisfaction.
+* There are multiple peaks, suggesting that job satisfaction might be influenced by additional factors besides salary hikes (e.g., work environment, management, or career growth).
+* Valleys in Satisfaction: Some of the lowest satisfaction levels, around 2.0–2.5, occur at various points on the salary hike axis. This suggests that salary hikes alone do not guarantee satisfaction and other issues might overshadow the effect of compensation increases.
+* Fluctuation: The jagged nature of the graph highlights the variability in how employees perceive salary hikes. This may point to differing expectations, fairness perceptions, or satisfaction drivers across employee groups.
+
+#### 13. Department wise Age distribution
+
+![Dept wise Age distribution](https://github.com/user-attachments/assets/4cf5aa26-03e1-43a6-b19b-8b8f02920826)
+
+* The above chart depicts department-wise average age distribution across various departments in an organization. Here's an analysis based on the visual
+* Trends in Age Distribution:
+  * The average age is highest in the Hardware department (39.16 years).
+  * It slightly decreases across Research & Development (39.09 years) and Software (38.00 years).
+  * A notable drop is seen in the Support department (34.46 years).
+  * Human Resources and Sales departments have similar average ages at the lower end (both around 34.66 years).
+* The Hardware department seems to have more experienced or senior employees compared to others.
+* The Support, Human Resources, and Sales departments likely have a younger workforce, possibly indicating roles that attract early-career professionals or require less tenure.
+* The gradual decline in average age from Hardware to Sales could indicate differences in the nature of work or experience levels required in each department.
 
 
-
-   
 
 
 
